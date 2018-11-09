@@ -1,4 +1,0 @@
-This is file2!
-Now it is changed.
-A new line
-Another new line
